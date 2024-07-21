@@ -1,3 +1,5 @@
+import os
+os.system("pip install flet")
 import flet as ft
 
 class Message():
